@@ -1,6 +1,6 @@
 <div align="center"> 
   <h2>
-    Olá eu sou Matheus Paim, desenvolvedor back-end em Python! 😄
+    Olá, eu sou Matheus Paim 😄 Desenvolvedor back-end em Python! 
   </h2>
 </div>
 <div align="center">
