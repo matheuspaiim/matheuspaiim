@@ -9,13 +9,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspaiim&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Mt-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mt-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mt-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mt-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Mt-PHP" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Mt-Mysql" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Mt-Git" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="MP-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MP-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="MP-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="MP-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="MP-PHP" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="MP-Mysql" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="MP-Git" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="right" alt="MP-Pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/h2XN6Ug0yTgCehJxjo/giphy.gif?cid=790b7611f50995bbc109575ca33349a590c2d755bb121aa2&rid=giphy.gif&ct=s">
 </div>
   
   ##
